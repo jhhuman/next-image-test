@@ -20,17 +20,17 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <img src="/iphone-1.jpg"/>
-          <img src="/handshake-1.jpg"/>
-          <img src="/analysis.jpg"/>
-          <img src="/ideation.jpg"/>
-          <img src="/bulb.jpg"/>
-          <img src="/ux-1.jpg"/>
-          <img src="/mobile.jpg"/>
-          <img src="/mobile-2.jpg"/>
-          <img src="/mobile-desktop.jpg"/>
-          <img src="/ux-notes-1.jpg"/>
-          <img src="/prototyping.jpg"/>
+          <Images src="/iphone-1.jpg"/>
+          <Images src="/handshake-1.jpg"/>
+          <Images src="/analysis.jpg"/>
+          <Images src="/ideation.jpg"/>
+          <Images src="/bulb.jpg"/>
+          <Images src="/ux-1.jpg"/>
+          <Images src="/mobile.jpg"/>
+          <Images src="/mobile-2.jpg"/>
+          <Images src="/mobile-desktop.jpg"/>
+          <Images src="/ux-notes-1.jpg"/>
+          <Images src="/prototyping.jpg"/>
     
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
