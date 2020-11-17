@@ -12,12 +12,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          This is an image optimization test using the new Next.js Image Component!
+          Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          This is an image optimization test using the new Next.js Image Component!
         </p>
 
         <div className={styles.grid}>
