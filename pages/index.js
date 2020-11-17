@@ -12,7 +12,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          This is an image optimization test using the new Next.js Image Component!
         </h1>
 
         <p className={styles.description}>
