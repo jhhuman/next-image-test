@@ -20,8 +20,18 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Image src="/iphone-1.jpg" alt="my image" quality={75}/>
-
+          <img src="/iphone-1.jpg"/>
+          <img src="/handshake-1.jpg"/>
+          <img src="/analysis.jpg"/>
+          <img src="/ideation.jpg"/>
+          <img src="/bulb.jpg"/>
+          <img src="/ux-1.jpg"/>
+          <img src="/mobile.jpg"/>
+          <img src="/mobile-2.jpg"/>
+          <img src="/mobile-desktop.jpg"/>
+          <img src="/ux-notes-1.jpg"/>
+          <img src="/prototyping.jpg"/>
+    
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
