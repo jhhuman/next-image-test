@@ -20,17 +20,17 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/iphone-1.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/handshake-1.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/analysis.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ideation.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/bulb.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-1.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-2.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-desktop.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-notes-1.jpg"/>
-          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/prototyping.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/iphone-1.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/handshake-1.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/analysis.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ideation.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/bulb.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-1.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-2.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-desktop.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-notes-1.jpg" width="1920" height="1080"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/prototyping.jpg" width="1920" height="1080"/>
     
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
