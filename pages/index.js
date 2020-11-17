@@ -20,7 +20,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Image src="/iphone-1.jpg" alt="my image" quality="100"/>
+          <Image src="/iphone-1.jpg" alt="my image"/>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
