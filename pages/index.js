@@ -20,17 +20,17 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <Image src="/iphone-1.jpg"/>
-          <Image src="/handshake-1.jpg"/>
-          <Image src="/analysis.jpg"/>
-          <Image src="/ideation.jpg"/>
-          <Image src="/bulb.jpg"/>
-          <Image src="/ux-1.jpg"/>
-          <Image src="/mobile.jpg"/>
-          <Image src="/mobile-2.jpg"/>
-          <Image src="/mobile-desktop.jpg"/>
-          <Image src="/ux-notes-1.jpg"/>
-          <Image src="/prototyping.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/iphone-1.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/handshake-1.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/analysis.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ideation.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/bulb.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-1.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-2.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/mobile-desktop.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/ux-notes-1.jpg"/>
+          <img src="http://y6v1zkmr.cdn.imgeng.in/2020/08/prototyping.jpg"/>
     
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h3>Learn &rarr;</h3>
